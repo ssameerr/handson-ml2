@@ -27,7 +27,7 @@
 ##### Core scientific packages
 jupyter==1.0.0
 matplotlib==3.0.3
-numpy==1.16.2
+numpy==1.22.2
 pandas==0.24.1
 scipy==1.2.1
 
@@ -76,7 +76,7 @@ tensorflow-transform
 
 ##### Image manipulation
 imageio==2.5.0
-Pillow==5.4.1
+Pillow==9.2.0
 scikit-image==0.14.2
 
 
