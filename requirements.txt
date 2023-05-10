@@ -27,7 +27,7 @@
 ##### Core scientific packages
 jupyter==1.0.0
 matplotlib==3.0.3
-numpy==1.16.2
+numpy==1.22.2
 pandas==0.24.1
 scipy==1.2.1
 
@@ -100,3 +100,4 @@ urlextract==0.9
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
 tqdm==4.31.1
 ipywidgets==7.4.2
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
