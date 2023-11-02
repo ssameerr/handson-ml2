@@ -100,3 +100,5 @@ urlextract==0.9
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
 tqdm==4.31.1
 ipywidgets==7.4.2
+
+notebook>=6.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
