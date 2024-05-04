@@ -98,5 +98,5 @@ nltk==3.4
 urlextract==0.9
 
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
-tqdm==4.31.1
+tqdm==4.66.3
 ipywidgets==7.4.2
